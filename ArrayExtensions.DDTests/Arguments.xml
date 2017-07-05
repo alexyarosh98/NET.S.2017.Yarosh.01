@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TestCases>
+  <TestCase>
+    <FirstArg>1234321</FirstArg>
+    <ExpectedResult>1241233</ExpectedResult>
+  </TestCase>
+  <TestCase>
+    <FirstArg>-13</FirstArg>
+    <ExpectedResult>-1</ExpectedResult>
+  </TestCase>
+  <TestCase>
+    <FirstArg>1</FirstArg>
+    <ExpectedResult>-1</ExpectedResult>
+  </TestCase>
+</TestCases>
